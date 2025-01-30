@@ -35,4 +35,4 @@ InfoSphere_Bot is an advanced AI-powered Telegram bot designed to provide instan
 ---
 
 ## 🔗 Get Started
-💬 **Try it now on Telegram** and enhance your learning experience! 🚀
+💬 **Try it now on Telegram:** [InfoSphere_Bot](https://t.me/SphereBotX_bot) and enhance your learning experience! 🚀
